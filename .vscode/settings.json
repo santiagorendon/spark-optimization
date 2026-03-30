@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "metals.javaOpts": ["--add-opens", "java.base/sun.nio.ch=ALL-UNNAMED"],
+    "metals.javaHome": "C:\\Users\\santi\\.jdks\\corretto-11.0.30"
+}
