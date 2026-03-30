@@ -148,6 +148,7 @@ conf/*.xml
 conf/java-opts
 conf/slaves
 dependency-reduced-pom.xml
+lecture_notes/
 
 ### Metals ###
 .metals/
