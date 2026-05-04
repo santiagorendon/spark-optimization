@@ -18,6 +18,7 @@ sortmergejoin
 project
 hashaggregate
 
+
 ## Chunk 1 converted
 - the `3 main points`
 - the `plain English explanation`

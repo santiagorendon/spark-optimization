@@ -42,6 +42,14 @@ Start by cloning this repository and checkout the `start` tag:
 git checkout start
 ```
 
+### Using molten-nvim with the notebook
+
+After starting the Jupyter server with `docker-compose -f docker-compose.pyspark.yml up`, connect molten-nvim to the kernel from nvim:
+
+```
+:MoltenInit http://localhost:8888/?token=spark-optimization
+```
+
 ### For questions or suggestions
 
 If you have changes to suggest to this repo, either
